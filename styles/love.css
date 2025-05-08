@@ -1,0 +1,34 @@
+
+.send{
+    color: rgb(4, 4, 0);
+    font-size: x-large;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1000px;
+    background-color: rgba(240, 248, 255, 0.487);
+    margin: 50px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.send h2{
+    border-bottom: solid 2px rgb(10, 10, 10);
+}
+
+.final{
+    border-bottom: solid 2px rgb(8, 8, 8);
+}
+body{
+    margin: 0;
+}
+
+img {
+    width: 100%;
+    position: relative;
+}
+.box {
+    display: flex;
+    justify-content: center;
+}
